@@ -1,1 +1,0 @@
-# yandex_praktikum_data_science
